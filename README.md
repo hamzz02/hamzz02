@@ -1,43 +1,45 @@
-<h1 align="left">Hi there, I'm Hamka Ibnu Zufar! 👋</h1>
-<h3 align="left">Full Stack Developer 💻 | Backend Enthusiast ⚙️ | Informatics Student 🎓</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hamka+Ibnu+Zufar!+👋;Full+Stack+Developer+💻;Backend+Enthusiast+⚙️;Informatics+Student+🎓" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  I'm an Informatics Engineering student at Universitas Sebelas Maret (UNS). I have a strong passion for Web Development, specifically focusing on <b>Backend Engineering</b> and <b>Database Architectures</b>. I love solving complex problems, building scalable RESTful APIs, and integrating them seamlessly with interactive user interfaces.
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/hamka-ibnu-zufar" target="_blank">[cite: 3, 4]
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hamkaibnuzufar123@gmail.com" target="_blank">[cite: 3, 4]
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-<blockquote>
+<br>
+
+<div align="center">
   <i>"Architecting scalable backend systems, one API at a time." 🚀</i>
-</blockquote>
+</div>
 
 ---
 
-### ⚡ What I Do
+### 👨‍💻 About Me
+I'm an Informatics Engineering student at Universitas Sebelas Maret (UNS) with a strong passion for Web Development, specifically focusing on **Backend Engineering** and **Database Architectures**. 
+
 - 🔭 Currently building full-stack applications and real-time tracking systems like **C-Track**.
 - 🌱 Deepening my knowledge in **TypeScript, Prisma ORM, and Cloud Deployments (Linux VPS)**.
-- 💬 Ask me about **Node.js, Laravel, or WebSocket (Socket.io) integrations**.
-- 📫 How to reach me: **hamkaibnuzufar123@gmail.com**
+- 💬 Ask me about **Node.js, Laravel, or WebSocket integrations**.
+- ⚡ Fun fact: I love seamlessly integrating scalable backends with interactive user interfaces.
 
 ---
 
 ### 🛠️ Core Tech Stack
 
-**Backend & Database**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Frontend & Mobile**<br>
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**DevOps & Tools**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <p><strong>Backend & Database</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,laravel,php,mysql,prisma" alt="Backend Stack" /><br><br>
+  
+  <p><strong>Frontend & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,html,css" alt="Frontend Stack" /><br><br>
+  
+  <p><strong>DevOps & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,firebase,vscode" alt="Tools Stack" />
+</div>
 
 ---
-
